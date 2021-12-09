@@ -10,3 +10,5 @@
   - git remote add origin https://github.com/vn-anhnth/greatkart-django.git
   - git branch -M main
   - git push -u origin main
+  - git remote -v
+  - git remote remove origin 
