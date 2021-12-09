@@ -1,0 +1,5 @@
+- init git
+  - Create repository on git
+  - git init
+  - Add .gitignore, README.md in your project
+  - git add -A
