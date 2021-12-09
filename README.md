@@ -17,4 +17,5 @@
   - connect with ssh key
     - ssh-keygen
     - /home/anhlone3/.ssh/id_rsa.pub
+    - copy ssh into https://github.com/settings/keys
     - git remote add origin git@github.com:vn-anhnth/greatkart-django.git
